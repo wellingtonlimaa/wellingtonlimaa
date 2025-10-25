@@ -65,3 +65,9 @@
 </div>
 
 ###
+
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=&animation=fadeIn&color=0:6A0DAD,50:8A2BE2,100:BA55D3&stroke=FFFFFF&strokeWidth=1"
+  />
+</div>
