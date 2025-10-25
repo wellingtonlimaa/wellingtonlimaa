@@ -1,6 +1,9 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=136&section=header&reversal=false&text=Wellington%20&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Wellington%20Oliveira&fontSize=60&fontAlign=50&fontAlignY=35&color=9B30FF,8A2BE2,6A0DAD&fontColor=FFFFFF&desc=Desenvolvedor%20Full%20Stack%20|%20Criando%20Experiências%20Digitais&descAlign=50&descAlignY=65&animation=fadeIn&stroke=FFFFFF&strokeWidth=0.4&reversal=false"
+  />
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wellingtonlimaa&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
