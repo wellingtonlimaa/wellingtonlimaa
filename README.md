@@ -1,13 +1,27 @@
 <div align="center">
+
+  <!-- 🌊 Header animado -->
+<div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Wellington%20Oliveira&fontSize=60&fontAlign=50&fontAlignY=35&color=9B30FF,8A2BE2,6A0DAD&fontColor=FFFFFF&desc=Desenvolvedor%20Full%20Stack%20|%20Criando%20Experiências%20Digitais&descAlign=50&descAlignY=65&animation=fadeIn&stroke=FFFFFF&strokeWidth=0.4&reversal=false"
+    src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Wellington%20Lima&fontSize=70&fontColor=FFFFFF&animation=fadeIn&stroke=FFFFFF&strokeWidth=1&fontAlignY=40&color=0:6A0DAD,50:8A2BE2,100:BA55D3&shadow=0:8A2BE2,50:BA55D3,100:6A0DAD"
   />
 </div>
 
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wellingtonlimaa&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+
+
+
+
+
+  <!-- ⌨️ Efeito typing -->
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=800&lines=👋+Bem-vindo+ao+meu+GitHub!;💻+Desenvolvedor+Full+Stack;🚀+Foco+em+Inovação+e+Performance;📚+Sempre+em+busca+de+aprendizado"
+  />
+
+
 </div>
+
+
 
 ###
 
