@@ -7,12 +7,6 @@
   />
 </div>
 
-
-
-
-
-
-
   <!-- ⌨️ Efeito typing -->
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=800&lines=👋+Bem-vindo+ao+meu+GitHub!;💻+Desenvolvedor+Full+Stack;🚀+Foco+em+Inovação+e+Performance;📚+Sempre+em+busca+de+aprendizado"
@@ -20,8 +14,6 @@
 
 
 </div>
-
-
 
 ###
 
@@ -55,7 +47,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/wellingtonlimaa/wellingtonlimaa/main/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wellingtonlimaa&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
 
